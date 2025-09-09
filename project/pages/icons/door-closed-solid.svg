@@ -1,0 +1,5 @@
+<svg aria-hidden="true" data-prefix="fas" data-icon="door-closed" class="svg-inline--fa fa-door-closed"
+	xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+	<path fill="white"
+		d="M560 448h-80V51c0-28-21-51-48-51H144c-26 0-48 23-48 51v397H16c-9 0-16 7-16 16v32c0 9 7 16 16 16h544c9 0 16-7 16-16v-32c0-9-7-16-16-16zM384 288a32 32 0 0 1 0-64 32 32 0 0 1 0 64z" />
+</svg>

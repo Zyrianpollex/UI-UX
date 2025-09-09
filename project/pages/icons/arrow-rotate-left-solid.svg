@@ -1,0 +1,5 @@
+<svg aria-hidden="true" data-prefix="fas" data-icon="arrow-rotate-left" class="svg-inline--fa fa-arrow-rotate-left"
+	xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	<path fill="white"
+		d="M480 256a224 224 0 0 1-358 179 32 32 0 1 1 38-51 160 160 0 1 0-32-224h64a32 32 0 1 1 0 64H48c-18 0-32-14-32-32V48a32 32 0 1 1 64 0v70a223 223 0 0 1 400 138z" />
+</svg>

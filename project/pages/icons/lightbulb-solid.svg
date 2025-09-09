@@ -1,0 +1,5 @@
+<svg aria-hidden="true" data-prefix="fas" data-icon="lightbulb" class="svg-inline--fa fa-lightbulb"
+	xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
+	<path fill="white"
+		d="M112 454c0 7 2 13 5 18l18 26c5 8 17 14 26 14h62c9 0 21-6 26-14l18-26c2-4 5-12 5-18v-39H112v39zM191 0A175 175 0 0 0 60 291c16 19 42 58 52 91v1h160v-1c10-33 36-72 52-91A176 176 0 0 0 191 0zm1 96c-44 0-80 36-80 79 0 10-7 17-16 17s-16-7-16-16c0-62 50-111 112-111 9 0 16 7 16 16s-7 15-16 15z" />
+</svg>
